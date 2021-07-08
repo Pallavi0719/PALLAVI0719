@@ -7,4 +7,6 @@ College: kJ Somaiya college of science and commerce.
 
 Beginner I'll first learn python
 
-Day1: I learned python basics,variables, Data types, typecasting, whitespace, Comments, Assignments, Expressions and statements in Python. 
+Day1: I Learned python basics,variables, Data types, typecasting, whitespace, Comments, Assignments, Expressions and statements in Python. 
+
+Day2: I Learned functions, file handling, Decision making, data structers in python.
