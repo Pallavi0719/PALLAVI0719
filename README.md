@@ -12,3 +12,5 @@ Day1: I Learned python basics,variables, Data types, typecasting, whitespace, Co
 Day2: I Learned functions, file handling, Decision making, data structers in python.
 
 Day3: I Learned Numpy arrays and vector.
+
+Day4: I Learned PANDAS series.
