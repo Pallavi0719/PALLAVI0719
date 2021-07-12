@@ -16,3 +16,5 @@ Day3: I Learned Numpy arrays and vector.
 Day4: I Learned PANDAS series.
 
 Day5: I Learned PANDAS DATAFRAME.
+
+Day6: I learned MATPLOTLIB for DATA VISUALISATION.
