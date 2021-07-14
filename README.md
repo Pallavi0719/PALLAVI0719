@@ -20,3 +20,5 @@ Day5: I Learned PANDAS DATAFRAME.
 Day6: I learned MATPLOTLIB for DATA VISUALISATION.
 
 Day7: I Learned SEABORN.
+
+Day8: I learned Numpy Cheatsheet, Data Cleaning, Python Cheatsheet.
