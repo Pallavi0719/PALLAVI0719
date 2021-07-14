@@ -18,3 +18,5 @@ Day4: I Learned PANDAS series.
 Day5: I Learned PANDAS DATAFRAME.
 
 Day6: I learned MATPLOTLIB for DATA VISUALISATION.
+
+Day7: I Learned SEABORN.
